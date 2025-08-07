@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Favian
 
-🎓 Junior Developer  
+🎓 Junior Developer from Italy 🇮🇹   
 🛠️ I build bots, test ideas, and break things for fun  
 🎮 Gamer at heart, developer by choice  
-📍 Creator of the Discord server **Classe di Ferro 66**
+📍 Creator of the Discord server [**Classe di Ferro 66**](https://discord.gg/dW6TGY8cDr)
 
 ---
 

@@ -22,7 +22,7 @@ To grow as a developer by learning in public, building useful (and useless) tool
 ## 📫 Reach me
 📧 dev.favian@gmail.com  
 🐙 [github.com/devfavian](https://github.com/devfavian)  
-🎥 [twitch.tv/favian](https://twitch.tv/favian)
+🎥 [twitch.tv/favian](https://twitch.tv/FavianTheBest)
 
 ---
 
